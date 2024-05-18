@@ -1,5 +1,18 @@
 # Blanche_de_Noel-ios
 
+<table>
+    <tr>
+        <td>ダウンロードリンク</td>
+        <td style="text-align: center;"><a href="https://apps.apple.com/jp/app/blanche-de-noel/id6502287377"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="100">
+    </tr>
+    <tr>
+        <td>QRコード</td>
+        <td style="text-align: center;"><a href="https://apps.apple.com/jp/app/blanche-de-noel/id6502287377"><img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/1bcf4c4ccbe5c7e4fd49bb80a3209dd4/b69e9effa96d83c8688ccb0f8655839f.png" height="100"></a></td>
+    </tr>
+</table>
+
+## Status
+
 <div style="margin:0px;padding:0px;">
   <table width="98%" style="border-collapse: collapse;border:2px double #000080;text-align:center;margin:auto;">
     <tbody>
